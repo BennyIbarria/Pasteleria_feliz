@@ -1,0 +1,15 @@
+D:\Reposteria_Feliz\bin\Debug\net6.0\Reposteria_Feliz.exe
+D:\Reposteria_Feliz\bin\Debug\net6.0\Reposteria_Feliz.deps.json
+D:\Reposteria_Feliz\bin\Debug\net6.0\Reposteria_Feliz.runtimeconfig.json
+D:\Reposteria_Feliz\bin\Debug\net6.0\Reposteria_Feliz.dll
+D:\Reposteria_Feliz\bin\Debug\net6.0\ref\Reposteria_Feliz.dll
+D:\Reposteria_Feliz\bin\Debug\net6.0\Reposteria_Feliz.pdb
+D:\Reposteria_Feliz\obj\Debug\net6.0\Reposteria_Feliz.csproj.AssemblyReference.cache
+D:\Reposteria_Feliz\obj\Debug\net6.0\Reposteria_Feliz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Reposteria_Feliz\obj\Debug\net6.0\Reposteria_Feliz.AssemblyInfoInputs.cache
+D:\Reposteria_Feliz\obj\Debug\net6.0\Reposteria_Feliz.AssemblyInfo.cs
+D:\Reposteria_Feliz\obj\Debug\net6.0\Reposteria_Feliz.csproj.CoreCompileInputs.cache
+D:\Reposteria_Feliz\obj\Debug\net6.0\Reposteria_Feliz.dll
+D:\Reposteria_Feliz\obj\Debug\net6.0\ref\Reposteria_Feliz.dll
+D:\Reposteria_Feliz\obj\Debug\net6.0\Reposteria_Feliz.pdb
+D:\Reposteria_Feliz\obj\Debug\net6.0\Reposteria_Feliz.genruntimeconfig.cache
